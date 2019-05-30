@@ -5,7 +5,7 @@ Available on android TV and android mobile device
 
 Torrentium allows you to enjoy online playback of content with the best audio-visual quality in all the most popular and common formats.
 
-# Stream your torrent 
+## Stream your torrent 
 Start the playback without waiting for the whole file to complete downloading. Just like streaming platform, you get to start watching right away and that saves you a lot of time. It is really fast. Watch FHD or 4k content with no more buffering
 
 # Everything you watch in one place
